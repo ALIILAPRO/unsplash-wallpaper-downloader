@@ -13,7 +13,7 @@ A project for download wallpaper from site unsplash.com
 ### [?] How to use this script on ( windows, mac, linux )
 1. First download python and install in your system. [Python +3.8](https://www.python.org/downloads/)
 2. Install requests library `pip install requests`
-3. Download [this project](https://github.com/aliilapro/unsplash-wallpaper-downloader/archive/master.zip) and extract it
+3. Download [this project](https://codeload.github.com/ALIILAPRO/unsplash-wallpaper-downloader/zip/main) and extract it
 4. Open a cmd or terminal or shell in the extracted directory
 5. Enter `python uwd.py`
 6. Run the script and use it
